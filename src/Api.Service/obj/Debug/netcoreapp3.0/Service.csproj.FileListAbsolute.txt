@@ -1,0 +1,8 @@
+C:\Users\caioo\source\repos\ApiApplication\src\Api.Service\bin\Debug\netcoreapp3.0\Service.deps.json
+C:\Users\caioo\source\repos\ApiApplication\src\Api.Service\bin\Debug\netcoreapp3.0\Service.dll
+C:\Users\caioo\source\repos\ApiApplication\src\Api.Service\bin\Debug\netcoreapp3.0\Service.pdb
+C:\Users\caioo\source\repos\ApiApplication\src\Api.Service\obj\Debug\netcoreapp3.0\Service.csprojAssemblyReference.cache
+C:\Users\caioo\source\repos\ApiApplication\src\Api.Service\obj\Debug\netcoreapp3.0\Service.AssemblyInfoInputs.cache
+C:\Users\caioo\source\repos\ApiApplication\src\Api.Service\obj\Debug\netcoreapp3.0\Service.AssemblyInfo.cs
+C:\Users\caioo\source\repos\ApiApplication\src\Api.Service\obj\Debug\netcoreapp3.0\Service.dll
+C:\Users\caioo\source\repos\ApiApplication\src\Api.Service\obj\Debug\netcoreapp3.0\Service.pdb
